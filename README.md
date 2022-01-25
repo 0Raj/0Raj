@@ -1,4 +1,4 @@
-![BannerGIF](https://github.com/0Raj/0Raj/blob/2459bdf4e9ad8073fce28f19e70e19813a196679/3X34OOEE0Q7I9M37.gif)
+![BannerGIF](https://github.com/0Raj/0Raj/blob/c33f649907407651e84c45f5fc334af2c19ac1c4/ezgif.com-gif-maker.gif)
 
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !

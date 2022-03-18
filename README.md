@@ -10,7 +10,7 @@
 
 💡 &nbsp; I'm studying full stack development at Masai School. \
 🎓&nbsp;I graduated form D G Vaishnav College for Arts and Science (B.sc, Mathematics with Computer Application, Batch of 2018).\
-🌱 &nbsp;I'm on track for learning more about MERN Stack, and Agile Methodology .\
+🌱 &nbsp;I'm on track for learning more about  Backend Development,Java Architecture, and Agile Methodology .\
 ✍️ &nbsp;In my free time, I workout, travel and explore foods.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at rajasekark0@gmail.com. I'll try to respond as soon as possible!\

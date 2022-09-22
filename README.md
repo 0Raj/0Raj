@@ -42,7 +42,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="https://github.com/0Raj" target="_blank">
-<img src=https://img.shields.io/twitter/url?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=[https://img.shields.io/twitter/url?&style=for-the-badge&logo=github&logoColor=white ](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Fstyle%3Dsocial)alt=twitter style="margin-bottom: 5px;" />
 
 </a>
 <a href="https://instagram.com/r_a_j_2" target="_blank">
